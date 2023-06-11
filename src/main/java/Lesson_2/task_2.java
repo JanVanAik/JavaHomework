@@ -1,7 +1,5 @@
 package Lesson_2;
 
-import com.sun.tools.jconsole.JConsolePlugin;
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.logging.FileHandler;
