@@ -1,0 +1,84 @@
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 5 и 7 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 14 и 33 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 10000 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 185 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 33 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 14 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 7 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Элементы 1 и 5 перемещены
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
+июн. 11, 2023 8:39:28 PM Lesson_2.task_2 main
+INFO: Изменений нет
